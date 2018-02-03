@@ -723,7 +723,7 @@ a.has-text-primary:hover, a.has-text-primary:focus {
 }
 
 .has-text-link {
-  color: #3273dc !important;
+  color: black !important;
 }
 
 a.has-text-link:hover, a.has-text-link:focus {

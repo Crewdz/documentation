@@ -1,0 +1,34 @@
+/*Imported Fonts*/
+ @import url('https://fonts.googleapis.com/css?family=Anton');
+
+/**/
+
+#title {
+	font-size:3em;
+	text-align:center;
+	font-family:'Anton', sans-serif;
+}
+
+.howtocrumb {
+	margin-left:5px;
+}
+
+.contentdiv {
+	margin-left:3px;
+	text-align:center;
+}
+
+p {
+	font-size:2em;
+}
+
+.rightlabel {
+	text-decoration:underline;
+	font-size:1.3em;
+}
+
+.menu {
+	border: 1px solid #D8D8D8;
+	border-radius:5px;
+	text-align:center;
+}

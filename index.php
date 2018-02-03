@@ -30,7 +30,7 @@
   <p class="managementpanel"><i class="fas fa-columns"></i>&nbsp;Control Panel</p>
   <section class="list">
   <ul id="fullwidth">
-  <li><i class="fas fa-play"></i>&nbsp; How to start/stop/refresh server</li>
+  <a href="docs/how-to-start-stop-refresh.php" id="linklist"><li><i class="fas fa-play"></i>&nbsp; How to start/stop/refresh server</li></a>
   <li id="light"><i class="fas fa-cogs"></i>&nbsp; Configuration analysis</li>
   <li><i class="fas fa-user-plus"></i>&nbsp;How to add users to authentication list</li>
   </ul>

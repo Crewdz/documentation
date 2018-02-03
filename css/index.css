@@ -31,6 +31,7 @@
 }
 
 .list {
+	color:black;
 	background-color:#F2F2F2;
 	width:100%;
 	display: flex;
@@ -74,4 +75,8 @@ li:hover {
   left: 0;
   background-color: #FAFAFA;
   text-align: center;
+}
+
+#linklist {
+	color:black;
 }
