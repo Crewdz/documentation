@@ -1,0 +1,77 @@
+/*Imported Fonts*/
+ @import url('https://fonts.googleapis.com/css?family=Anton');
+
+/**/
+
+#title {
+	font-size:3em;
+	text-align:center;
+	font-family:'Anton', sans-serif;;
+	margin:5px;
+}
+
+.pay {
+	background-color:#01A9DB;
+	color:white;
+	height:2.5em;
+	display: flex;
+    justify-content: center;
+    align-items: center; 
+	font-size:1.5em;
+}
+
+.managementpanel {
+	background-color:#01DF3A;
+	color:white;
+	height:2.5em;
+	display: flex;
+    justify-content: center;
+    align-items: center; 
+	font-size:1.5em;
+}
+
+.list {
+	background-color:#F2F2F2;
+	width:100%;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+	border: 1px solid #E6E6E6;
+}
+
+#light {
+	background-color:white;
+	width:100%;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#light:hover {
+	background-color:#FAFAFA
+}
+
+#fullwidth {
+	width:100%;
+    text-align:center;
+}
+
+li {
+	height: 2em;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li:hover {
+	cursor: pointer;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #FAFAFA;
+  text-align: center;
+}
