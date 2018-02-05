@@ -16,7 +16,7 @@
   <p class="pay"><i class="fas fa-credit-card"></i>&nbsp;Payments</p>
   <section class="list">
   <ul id="fullwidth">
-  <li><i class="fas fa-ban"></i>&nbsp; How to cancel payments</li>
+  <a href="docs/how-to-cancel-payments.php" id="linklist"><li><i class="fas fa-ban"></i>&nbsp; How to cancel payments</li></a>
   <li id="light"><i class="fas fa-question"></i>&nbsp; How do I pay?</li>
   </ul>
   </section>
